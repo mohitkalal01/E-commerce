@@ -19,7 +19,7 @@ function Header() {
             <ul className="flex items-center p-5 space-x-6">
               <li>
                 <NavLink className="text-lg " to="/">
-                  Home
+                  mohit
                 </NavLink>
               </li>
               <li>
